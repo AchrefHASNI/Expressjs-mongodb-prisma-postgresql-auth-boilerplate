@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-mongodb-prisma-postgresql-boilerplate",
+  "version": "1.0.0",
+  "description": "NodeJs expressJs authentication  boilerplater that have 2 versions based on database  used also it contains a security and an error handling layer ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Achref Hasni",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.20.0",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-rate-limit": "^7.4.0",
+    "express-validator": "^7.2.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7",
+    "prisma": "^5.20.0",
+    "xss-clean": "^0.1.4"
+  }
+}
