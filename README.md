@@ -33,7 +33,7 @@ Make sure you have the following installed on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AchrefHASNI/
+git clone https://github.com/AchrefHASNI/Expressjs-mongodb-prisma-postgresql-auth-boilerplate.git
 cd your-repo
 ```
 
